@@ -1,0 +1,26 @@
+[
+    {
+        "id1": "11",
+        "id2": "111",
+        "picture": "https://image.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+        "name": "Salma Wahid",
+        "department": "Cardiology",
+        "designation": "Senior Consultant"
+    },
+    {
+        "id1": "22",
+        "id2": "222",
+        "picture": "https://image.freepik.com/free-photo/doctor-standing-with-folder-stethoscope_1291-16.jpg?1",
+        "name": "Abdullah Basar",
+        "department": "Oncology",
+        "designation": "Dept Head"
+    },
+    {
+        "id1": "33",
+        "id2": "333",
+        "picture": "https://image.freepik.com/free-photo/portrait-doctor_144627-39390.jpg",
+        "name": "rabeya Hasnat",
+        "department": "Gynecology",
+        "designation": "Senior Consultant"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id1": "1",
+        "id2": "1111",
+        "picture": "https://i1.feedspot.com/200/1007652.jpg?t=1612437794",
+        "title": "Common Sense Family Doctor",
+        "description": "Welcome to Common Sense Family Doctor by Dr Kenny. He is a board-certified Family Physician and Public Health professional practicing in the Washington, DC area. He is also the Deputy Editor of the journal American Family Physician and teach family and preventive medicine and population health at Georgetown University School of Medicine, Uniformed Services University of the Health Sciences, and Johns Hopkins University Bloomberg School of Public Health.",
+        "like": "10",
+        "dislike": "3"
+    },
+    {
+        "id1": "2",
+        "id2": "2222",
+        "picture": "https://i1.feedspot.com/200/4882128.jpg?t=1612437799",
+        "title": "The Sleep Doctor | Your Guide to Better Sleep",
+        "description": "Dr. Michael Breus is a Clinical Psychologist and both a Diplomat of the American Board of Sleep Medicine and a Fellow of The American Academy of Sleep Medicine. Most people could improve their sleep and many others are dealing with disorders, such as insomnia. We have advice, news and tools that can help you.",
+        "like": "33",
+        "dislike": "7"
+    },
+    {
+        "id1": "3",
+        "id2": "3333",
+        "picture": "https://i1.feedspot.com/200/4615329.jpg?t=1612437842",
+        "title": "Helping patients and doctors to talk to each other",
+        "description": "We help people to build their families using IVF and other advanced assisted reproductive techniques. We adopt a success-oriented approach towards infertility. This is very different from the traditional medical approach, so it needs to be described in detail.",
+        "like": "23",
+        "dislike": "2"
+    },
+    {
+        "id1": "4",
+        "id2": "4444",
+        "picture": "https://i1.feedspot.com/200/5060024.jpg?t=1612437846",
+        "title": "My Green Doctor",
+        "description": "We will show you how any healthcare clinic or office can use wise & sustainable environmental practices to make your office healthier and save you money. Here you learn ideas for your office, your families, your patients, and your community. We will guide you step-by-step to create an office Green Team and to take your first Action Steps.",
+        "like": "16",
+        "dislike": "5"
+    },
+    {
+        "id1": "5",
+        "id2": "5555",
+        "picture": "https://i1.feedspot.com/200/4882160.jpg?t=1612438626",
+        "title": "Direct Doctors Blog | Health Matters",
+        "description": "The Direct Doctors Blog wants to bring back the good old days when the doctor visited your house when you were sick, knew every member of your family, took time to listen to your stories and concerns, and treated you with compassion and care.",
+        "like": "19",
+        "dislike": "7"
+    },
+    {
+        "id1": "6",
+        "id2": "6666",
+        "picture": "https://i1.feedspot.com/200/4882779.jpg?t=1612438654",
+        "title": "Me and My Doctor",
+        "description": "Welcome to Me and My Doctor. We want to help patients and doctors find a new and better way to talk to each other. The purpose of this blog is create a dialogue between patients and doctors where they can discuss important health care issues, such as the new health law, government health insurance programs, health insurance, and hundreds of other topics.",
+        "like": "21",
+        "dislike": "2"
+    }
+]

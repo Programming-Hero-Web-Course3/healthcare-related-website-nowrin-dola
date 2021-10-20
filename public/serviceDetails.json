@@ -1,0 +1,60 @@
+{
+    "service": [
+        {
+            "id1": "616d6d01595f9a1449b2188a",
+            "id2": "616d6d01a085d1b2844ee2ab",
+            "picture": "https://image.freepik.com/free-vector/emergency-isometric_1284-25291.jpg",
+            "name": "Emergency Service",
+            "description": "We provide an emergency department, also known as an accident & emergency department, emergency room, emergency ward."
+        },
+        {
+            "id1": "616d6d01ed39fcae3d01c3d3",
+            "id2": "616d6d0177b4697fe5a30f30",
+            "picture": "https://image.freepik.com/free-vector/emergency-ambulance-with-coronavirus-concept_23-2148534628.jpg",
+            "name": "Ambulance Service",
+            "description": "We provide. ICU Ambulance Service, Ac ambulance, freezing ambulance. Best Ambulance Service, Competitive Pricing, No Hidden Charge Call Us for Ambulance."
+        },
+        {
+            "id1": "616d6d01f52e0f9901b4dcb3",
+            "id2": "616d6d013fd25c814e7b53ac",
+            "picture": "https://image.freepik.com/free-vector/vaccine-development-concept-illustration_114360-2233.jpg",
+            "name": "Laboratory",
+            "description": " we provide Various sub-units of laboratory medicine  Clinical Chemistry, Clinical Pathology, Microbiology, Histopathology, Haematology etc."
+        },
+        {
+            "id1": "616d6d0188f6ad64c6430f77",
+            "id2": "616d6d01d96e2bac04bee7fb",
+            "picture": "https://image.freepik.com/free-vector/pharmacy-medical-shop-concept_74855-7815.jpg",
+            "name": "Pharmacy",
+            "description": " we provide services include dispensing and distribution of medication, processing medication orders, providing drug information services, "
+        },
+        {
+            "id1": "616d6d01615fd3dbcf412f10",
+            "id2": "616d6d0145029babcb54c925",
+            "picture": "https://image.freepik.com/free-vector/colored-flat-medical-mri-composition-mri-room-hospital-treatment-vector-illustration_1284-30685.jpg",
+            "name": "Radiology",
+            "description": "Radiology, also known as diagnostic imaging, is a series of tests that take pictures or images of parts of the body.The field encompasses two areas diagnostic radiology and interventional radiology."
+        },
+        {
+            "id1": "616d6d01d177d05023124b8b",
+            "id2": "616d6d013067911157faadf8",
+            "picture": "https://image.freepik.com/free-vector/nurse-operating-room-composition-surgeon-works-operating-room_1284-62734.jpg",
+            "name": "Surgery",
+            "description": "we providesupports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology."
+        },
+        {
+            "id1": "616d6d01126d382e3c70892d",
+            "id2": "616d6d01a2ff56559c437ea7",
+            "picture": "https://image.freepik.com/free-vector/gynecology-consultation-concept-illustration_114360-3406.jpg",
+            "name": "Expart Consultation",
+            "description": "We provide in-depth discussion between you and the Consultant about your medical symptoms or condition.you will meet with the Consultant who will look after you throughout your treatment."
+        },
+        {
+            "id1": "616d6d01126d382e3c70893d",
+            "id2": "616d6d01a2ff56559c437ea9",
+            "picture": "https://image.freepik.com/free-vector/gynecology-consultation-concept-illustration_114360-3406.jpg",
+            "name": "Dental Service",
+            "description": "we provide dental services to emergency department patients and inpatients when needed but frequently provide emergent treatment indicated by oral trauma or infection"
+        }
+    ]
+}
