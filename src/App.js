@@ -4,6 +4,7 @@ import './App.css';
 import AuthProvider from './Context/AuthProvider';
 import AboutDetails from './Pages/AboutDetails/AboutDetails';
 import Blogs from './Pages/Blogs/Blogs/Blogs';
+import Departments from './Pages/Departments/Departments';
 import BookAppoinment from './Pages/Doctors/BookApoinment/BookAppoinment';
 import Details from './Pages/Home/Details/Details';
 import Home from './Pages/Home/Home/Home';
@@ -45,6 +46,10 @@ function App() {
             </PrivateRoute>
             <PrivateRoute exact path='/blogs'>
               <Blogs></Blogs>
+
+            </PrivateRoute>
+            <PrivateRoute exact path='/dept'>
+              <Departments></Departments>
 
             </PrivateRoute>
 
