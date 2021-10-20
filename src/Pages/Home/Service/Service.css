@@ -3,12 +3,18 @@
     background-color:rgb(230, 238, 216);
     border: 1px 5px 5px solid rgb(230, 238, 216);
     
-    height: 550px;
+    height: 490px;
     margin-bottom: 10px;
     margin-left: 15px;
    
    
 
+}
+@media only screen and (max-width:688px) {
+    .card-style{
+        height: 550px;
+    }
+    
 }
 
 

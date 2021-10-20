@@ -1,12 +1,17 @@
 import React from 'react';
-import error from '../../images/Page Not Found/page not found.jpg'
+import { Link } from 'react-router-dom';
+import error from '../../images/Page Not Found/page not found.jpg';
+import './NotFound.css';
 
 const NotFound = () => {
     return (
-        <div>
-            <img src={error} style={{ width: '500px', height: '500px' }} alt="" srcset="" />
-            <div>
-                <button className='btn btn-warning mt-3'>Go Back</button>
+        <div className=' m-5'>
+            <div className='error-pic d-block mx-auto d-flex justify-content-center'>
+                <img src={error} alt="" className='img-fluid' srcset="" />
+            </div>
+
+            <div className='d-flex justify-content-center'>
+                <Link to='/home'><button className='btn btn-warning'>Go Back</button></Link>
             </div>
         </div>
     );

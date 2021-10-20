@@ -26,9 +26,9 @@ const useFirebse = () => {
             .then(result => {
                 const { displayName, email, photoURL } = result.user;
                 const loggedInUser = {
-                    name: displayName,
+                    displayName: displayName,
                     email: email,
-                    photo: photoURL
+                    photoURL: photoURL
                 }
                 setUser(loggedInUser)
             }).finally(() => setIsLoading(false))
@@ -58,7 +58,7 @@ const useFirebse = () => {
     const handleRegistration = e => {
         e.preventDefault();
         if (password.length < 6) {
-            setError('please provide 6 character password')
+            setError('please provide 8 character which include one latter & one number')
             return;
 
         }

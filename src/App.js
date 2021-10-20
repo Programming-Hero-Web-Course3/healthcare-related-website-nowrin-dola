@@ -15,7 +15,7 @@ import PrivateRoute from './Private/PrivateRoute';
 
 function App() {
   return (
-    <div className="App">
+    <div className="Appnpm">
       <AuthProvider>
         <Router>
           <Header></Header>
@@ -25,30 +25,30 @@ function App() {
 
               </Home>
             </Route>
-            <Route path='/home'>
+            <Route exact path='/home'>
               <Home>
 
               </Home>
 
             </Route>
-            <PrivateRoute path='/details/:serviceid'>
+            <PrivateRoute exact path='/details/:serviceid'>
               <Details></Details>
 
             </PrivateRoute>
-            <Route path='/about'>
+            <Route exact path='/about'>
               <AboutDetails></AboutDetails>
 
             </Route>
-            <PrivateRoute path='/apoinment/:id'>
+            <PrivateRoute exact path='/apoinment/:id'>
               <BookAppoinment></BookAppoinment>
 
             </PrivateRoute>
-            <PrivateRoute path='/blogs'>
+            <PrivateRoute exact path='/blogs'>
               <Blogs></Blogs>
 
             </PrivateRoute>
 
-            <Route path='/login'>
+            <Route exact path='/login'>
               <Login></Login>
 
             </Route>
